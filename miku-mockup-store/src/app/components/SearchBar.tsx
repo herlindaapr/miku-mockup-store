@@ -24,9 +24,9 @@ return (
                     className="flex-grow py-1.5 px-2 outline-none bg-white"
                 />
                 <button
-                    type="submit"
+                    type="submit" 
                     onClick={handleInputChange}
-                    className="bg-teal-800 text-xs text-background py-1.5 px-6 hover:bg-teal-900 hover:cursor-pointer shadow-sm focus-within:shadow-md"
+                    className="bg-teal-800 text-teal-100 text-xs text-background py-1.5 px-6 hover:bg-teal-900 hover:cursor-pointer shadow-sm focus-within:shadow-md"
                     >
                         Search
                 </button>
